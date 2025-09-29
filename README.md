@@ -46,10 +46,6 @@ Criação deste README.md.
 
 Organização opcional da pasta /images com capturas de tela dos testes.
 
-📸 Evidências
-
-(Imagens opcionais — exemplo: ./images/speech-to-text.png, ./images/language-sentiment.png)
-
 💡 Insights e Aprendizados
 
 A camada gratuita do Azure é suficiente para testes simples, sem custos adicionais.
